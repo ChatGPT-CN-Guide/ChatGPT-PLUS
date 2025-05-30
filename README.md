@@ -1,6 +1,6 @@
 # ChatGPT中文版入口：国内免费直连指南（支持GPT-4o、o3、o4mini以及Claude，无需翻墙）【6月最新】
  
-> **更新时间： 2025/05/29**             
+> **更新时间： 2025/06/01**             
 
 本文提供全面的 **[ChatGPT 中文版](https://snakegpt.com.cn)** 使用教程，推荐国内镜像网站，支持最新的GPT-4o绘图与GPT-o4-mini模型，无需翻墙。了解如何快速使用 **[ChatGPT 中文版](https://snakegpt.com.cn)**，提升工作效率和创作质量。
 
